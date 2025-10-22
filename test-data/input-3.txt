@@ -1,0 +1,2 @@
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # fire from secondary, if primary is empty
